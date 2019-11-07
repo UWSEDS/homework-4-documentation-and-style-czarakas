@@ -10,5 +10,5 @@ import pandas as pd
 ### Function to create a dataframe from a URL that points to a CSV file
 def create_dataframe(url):
     """ Creates data frame from url """
-    df = pd.read_csv(url)
-    return df
+    data_frame = pd.read_csv(url)
+    return data_frame
