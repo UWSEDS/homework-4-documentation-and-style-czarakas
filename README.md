@@ -2,8 +2,6 @@
 Claire Zarakas
 <br> Due on Wednesday, November 6, 2019
 
-Need to add function-level documentation that includes descriptions of arguments and return values.
-
 This project directory contains 3 modules and 2 additional files, as described below:
 
 # MODULES
